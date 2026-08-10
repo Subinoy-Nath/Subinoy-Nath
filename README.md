@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile_banner.svg" width="100%" alt="Subinoy Nath Banner" />
+  <img src="./profile_banner_v2.svg" width="100%" alt="Subinoy Nath Banner" />
   
   <br/><br/>
   
