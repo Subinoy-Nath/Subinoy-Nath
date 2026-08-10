@@ -132,52 +132,32 @@
 
 <img src="./icons/header_lets_connect.svg" width="100%" alt="Let's Connect" />
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr style="border: none;">
-    <td width="33%" valign="top" style="border: none; padding: 10px;">
-      <a href="mailto:subinoy5555@gmail.com" style="text-decoration: none;">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0d0f14; border: 1px solid #1e293b; border-radius: 8px; padding: 12px;">
-          <tr style="border: none;">
-            <td width="40" valign="middle" align="center" style="border: none;">
-              <img src="./icons/icon_email.svg" width="32" height="32" alt="Email" />
-            </td>
-            <td valign="middle" style="border: none; padding-left: 10px;">
-              <div style="font-weight: bold; color: #ffffff; font-size: 14px;">Email</div>
-              <div style="color: #ff7a45; font-size: 12px; margin-top: 2px;">subinoy5555@gmail.com</div>
-            </td>
-          </tr>
-        </table>
-      </a>
-    </td>
-    <td width="33%" valign="top" style="border: none; padding: 10px;">
-      <a href="https://linkedin.com/in/subinoy-nath" style="text-decoration: none;">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0d0f14; border: 1px solid #1e293b; border-radius: 8px; padding: 12px;">
-          <tr style="border: none;">
-            <td width="40" valign="middle" align="center" style="border: none;">
-              <img src="./icons/icon_linkedin.svg" width="32" height="32" alt="LinkedIn" />
-            </td>
-            <td valign="middle" style="border: none; padding-left: 10px;">
-              <div style="font-weight: bold; color: #ffffff; font-size: 14px;">LinkedIn</div>
-              <div style="color: #ff7a45; font-size: 12px; margin-top: 2px;">linkedin.com/in/subinoy-nath</div>
-            </td>
-          </tr>
-        </table>
-      </a>
-    </td>
-    <td width="34%" valign="top" style="border: none; padding: 10px;">
-      <a href="https://subinoy-nath.vercel.app" style="text-decoration: none;">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0d0f14; border: 1px solid #1e293b; border-radius: 8px; padding: 12px;">
-          <tr style="border: none;">
-            <td width="40" valign="middle" align="center" style="border: none;">
-              <img src="./icons/icon_portfolio.svg" width="32" height="32" alt="Portfolio" />
-            </td>
-            <td valign="middle" style="border: none; padding-left: 10px;">
-              <div style="font-weight: bold; color: #ffffff; font-size: 14px;">Portfolio</div>
-              <div style="color: #ff7a45; font-size: 12px; margin-top: 2px;">subinoy-nath.vercel.app</div>
-            </td>
-          </tr>
-        </table>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; background-color: #0d0f14; margin-bottom: 12px; min-height: 48px; display: block; clear: both; overflow: hidden;">
+  <a href="mailto:subinoy5555@gmail.com" style="text-decoration: none;">
+    <img src="./icons/icon_email.svg" width="48" height="48" alt="Email" style="float: left; margin-right: 16px; border: none;" />
+    <div style="padding-top: 2px;">
+      <div style="font-weight: bold; color: #ffffff; font-size: 16px; line-height: 1.2;">Email</div>
+      <div style="color: #ff7a45; font-size: 14px; margin-top: 4px; line-height: 1.2;">subinoy5555@gmail.com</div>
+    </div>
+  </a>
+</div>
+
+<div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; background-color: #0d0f14; margin-bottom: 12px; min-height: 48px; display: block; clear: both; overflow: hidden;">
+  <a href="https://linkedin.com/in/subinoy-nath" target="_blank" style="text-decoration: none;">
+    <img src="./icons/icon_linkedin.svg" width="48" height="48" alt="LinkedIn" style="float: left; margin-right: 16px; border: none;" />
+    <div style="padding-top: 2px;">
+      <div style="font-weight: bold; color: #ffffff; font-size: 16px; line-height: 1.2;">LinkedIn</div>
+      <div style="color: #ff7a45; font-size: 14px; margin-top: 4px; line-height: 1.2;">linkedin.com/in/subinoy-nath</div>
+    </div>
+  </a>
+</div>
+
+<div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; background-color: #0d0f14; min-height: 48px; display: block; clear: both; overflow: hidden;">
+  <a href="https://subinoy-nath.vercel.app" target="_blank" style="text-decoration: none;">
+    <img src="./icons/icon_portfolio.svg" width="48" height="48" alt="Portfolio" style="float: left; margin-right: 16px; border: none;" />
+    <div style="padding-top: 2px;">
+      <div style="font-weight: bold; color: #ffffff; font-size: 16px; line-height: 1.2;">Portfolio</div>
+      <div style="color: #ff7a45; font-size: 14px; margin-top: 4px; line-height: 1.2;">subinoy-nath.vercel.app</div>
+    </div>
+  </a>
+</div>
