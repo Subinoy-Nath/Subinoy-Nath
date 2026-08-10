@@ -1,27 +1,19 @@
 <div align="center">
   <img src="./profile_banner.svg?v=3" width="100%" alt="Subinoy Nath Banner" />
   
-  <br/><br/>
+  <br/>
   
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr style="border: none;">
-      <td style="border: none; padding: 0 5px;">
-        <a href="https://subinoy-nath.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-ff7a45?style=for-the-badge&logo=safari&logoColor=fdfbf7" alt="Portfolio" />
-        </a>
-      </td>
-      <td style="border: none; padding: 0 5px;">
-        <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-ff7a45?style=for-the-badge&logo=linkedin&logoColor=fdfbf7" alt="LinkedIn" />
-        </a>
-      </td>
-      <td style="border: none; padding: 0 5px;">
-        <a href="mailto:subinoy5555@gmail.com">
-          <img src="https://img.shields.io/badge/Email-ff7a45?style=for-the-badge&logo=gmail&logoColor=fdfbf7" alt="Email" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://subinoy-nath.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff7a45?style=for-the-badge&logo=safari&logoColor=fdfbf7" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff7a45?style=for-the-badge&logo=linkedin&logoColor=fdfbf7" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:subinoy5555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff7a45?style=for-the-badge&logo=gmail&logoColor=fdfbf7" alt="Email" />
+  </a>
 </div>
 
 <br/>
@@ -77,43 +69,42 @@
 
 <img src="./icons/header_featured_projects.svg" width="100%" alt="Featured Projects" />
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: 2px solid gray; padding: 10px; padding-left: 20px;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr style="border: none;">
-          <td width="72" valign="top" align="left" style="border: none; padding-top: 8px;">
-            <img src="./icons/icon_project_metric.svg" width="60" height="60" alt="Metric Icon" />
-          </td>
-          <td valign="top" style="border: none; padding-left: 12px;">
-            <h3 style="margin-top: 0; margin-bottom: 4px;">
-              <a href="https://github.com/Subinoy-Nath/Constraint-Interactions-Symbolic-Regression" style="color: #ffffff; text-decoration: none;">Constraint-Interaction Metric</a> 
-              <img src="https://img.shields.io/badge/Ongoing-6a4428?style=flat-square&logoColor=fdfbf7" alt="Ongoing" />
-              <img src="https://img.shields.io/badge/TIH_IITG-ff7a45?style=flat-square&logoColor=fdfbf7" alt="TIH IITG" />
-            </h3>
-            <p style="margin-top: 6px; margin-bottom: 0; font-size: 14px; color: #8c8c8c;">Quantifies synergy and redundancy between search-space constraints in symbolic regression via grammar-based AST generation and Monte Carlo density estimation.</p>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top" style="border: 2px solid gray; padding: 10px; padding-top: 20px;">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr style="border: none;">
-          <td width="72" valign="top" align="left" style="border: none; padding-top: 8px;">
-            <img src="./icons/icon_project_bus.svg" width="60" height="60" alt="Bus Icon" />
-          </td>
-          <td valign="top" style="border: none; padding-left: 12px;">
-            <h3 style="margin-top: 0; margin-bottom: 4px;">
-              <a href="https://github.com/Subinoy-Nath/pathersaathi" style="color: #ffffff; text-decoration: none;">Pather Saathi</a> 
-              <img src="https://img.shields.io/badge/Next.js_15-ff7a45?style=flat-square&logoColor=fdfbf7" alt="Next.js 15" />
-            </h3>
-            <p style="margin-top: 6px; margin-bottom: 0; font-size: 14px; color: #8c8c8c;">A production-oriented fleet booking platform with PostgreSQL, Supabase, and Upstash Redis — secure auth, Row-Level Security, and scalable booking workflows.</p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; background-color: #0d0f14; margin-bottom: 16px;">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr style="border: none;">
+      <td width="72" valign="top" align="left" style="border: none;">
+        <img src="./icons/icon_project_metric.svg" width="56" height="56" alt="Metric Icon" />
+      </td>
+      <td valign="top" style="border: none; padding-left: 16px;">
+        <h3 style="margin-top: 0; margin-bottom: 6px;">
+          <a href="https://github.com/Subinoy-Nath/Constraint-Interactions-Symbolic-Regression" style="color: #ffffff; text-decoration: none;">Constraint-Interaction Metric</a> 
+          &nbsp;
+          <img src="https://img.shields.io/badge/Ongoing-6a4428?style=flat-square&logoColor=fdfbf7" alt="Ongoing" />
+          <img src="https://img.shields.io/badge/TIH_IITG-ff7a45?style=flat-square&logoColor=fdfbf7" alt="TIH IITG" />
+        </h3>
+        <p style="margin: 0; font-size: 14px; line-height: 1.5; color: #8c8c8c;">Quantifies synergy and redundancy between search-space constraints in symbolic regression via grammar-based AST generation and Monte Carlo density estimation.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; background-color: #0d0f14;">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr style="border: none;">
+      <td width="72" valign="top" align="left" style="border: none;">
+        <img src="./icons/icon_project_bus.svg" width="56" height="56" alt="Bus Icon" />
+      </td>
+      <td valign="top" style="border: none; padding-left: 16px;">
+        <h3 style="margin-top: 0; margin-bottom: 4px;">
+          <a href="https://github.com/Subinoy-Nath/pathersaathi" style="color: #ffffff; text-decoration: none;">Pather Saathi</a> 
+          &nbsp;
+          <img src="https://img.shields.io/badge/Next.js_15-ff7a45?style=flat-square&logoColor=fdfbf7" alt="Next.js 15" />
+        </h3>
+        <p style="margin: 0; font-size: 14px; line-height: 1.5; color: #8c8c8c;">A production-oriented fleet booking platform with PostgreSQL, Supabase, and Upstash Redis — secure auth, Row-Level Security, and scalable booking workflows.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
