@@ -1,32 +1,27 @@
 <div align="center">
-
-<div style="position: relative; width: 100%; text-align: left; line-height: 1; overflow: hidden;">
-  <img src="./profile_banner.svg" style="width: 100%; height: auto; display: block;" alt="Subinoy Nath Banner" />
+  <img src="./profile_banner.svg" width="100%" alt="Subinoy Nath Banner" />
   
-  <div style="position: absolute; left: 5.2%; top: 15%; color: #a0aec0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 1.3vw; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase;">AI Researcher • Developer • Problem Solver</div>
+  <br/><br/>
   
-  <div style="position: absolute; left: 5.2%; top: 32%; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 5.6vw; font-weight: 800;">Subinoy Nath</div>
-  
-  <div style="position: absolute; left: 5.2%; top: 56%; color: #ff8f5e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 1.9vw; font-weight: 600; letter-spacing: 0.02em;">B.Tech Computer Science & Engineering</div>
-  <div style="position: absolute; left: 5.2%; top: 64%; color: #ff8f5e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 1.9vw; font-weight: 600; letter-spacing: 0.02em;">Barak Valley Engineering College (ASTU) · Sribhumi, Assam, India</div>
-  
-  <div style="position: absolute; left: 5.2%; top: 76%; display: flex; gap: 1vw;">
-    <a href="https://subinoy-nath.vercel.app" target="_blank" style="text-decoration: none; display: flex; align-items: center; justify-content: center; background-color: #0d1117; border: 0.15vw solid #334155; border-radius: 0.7vw; padding: 0.6vw 1.2vw; color: #cbd5e1; font-family: sans-serif; font-size: 1.4vw; font-weight: 600; gap: 0.5vw; height: fit-content; line-height: 1;">
-      <img src="./icons/icon_portfolio.svg" style="width: 1.8vw; height: 1.8vw;" />
-      <span>Portfolio</span>
-    </a>
-    <a href="https://linkedin.com/in/subinoy-nath" target="_blank" style="text-decoration: none; display: flex; align-items: center; justify-content: center; background-color: #0d1117; border: 0.15vw solid #334155; border-radius: 0.7vw; padding: 0.6vw 1.2vw; color: #cbd5e1; font-family: sans-serif; font-size: 1.4vw; font-weight: 600; gap: 0.5vw; height: fit-content; line-height: 1;">
-      <img src="./icons/icon_linkedin.svg" style="width: 1.8vw; height: 1.8vw;" />
-      <span>LinkedIn</span>
-    </a>
-    <a href="mailto:subinoy5555@gmail.com" style="text-decoration: none; display: flex; align-items: center; justify-content: center; background-color: #0d1117; border: 0.15vw solid #334155; border-radius: 0.7vw; padding: 0.6vw 1.2vw; color: #cbd5e1; font-family: sans-serif; font-size: 1.4vw; font-weight: 600; gap: 0.5vw; height: fit-content; line-height: 1;">
-      <img src="./icons/icon_email.svg" style="width: 1.8vw; height: 1.8vw;" />
-      <span>Email</span>
-    </a>
-  </div>
-  
-</div>
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr style="border: none;">
+      <td style="border: none; padding: 0 5px;">
+        <a href="https://subinoy-nath.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-ff7a45?style=for-the-badge&logo=safari&logoColor=fdfbf7" alt="Portfolio" />
+        </a>
+      </td>
+      <td style="border: none; padding: 0 5px;">
+        <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-ff7a45?style=for-the-badge&logo=linkedin&logoColor=fdfbf7" alt="LinkedIn" />
+        </a>
+      </td>
+      <td style="border: none; padding: 0 5px;">
+        <a href="mailto:subinoy5555@gmail.com">
+          <img src="https://img.shields.io/badge/Email-ff7a45?style=for-the-badge&logo=gmail&logoColor=fdfbf7" alt="Email" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
