@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="100%" height="100%">
   <!-- Background Color -->
   <rect width="850" height="320" rx="16" fill="#0b0f17" stroke="#1e293b" stroke-width="1.5"/>
@@ -24,12 +23,12 @@
 
   <!-- Text elements -->
   <!-- Top Left Header -->
-  <text x="44" y="58" fill="#a0aec0" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" letter-spacing="2">AI RESEARCHER • DEVELOPER • PROBLEM SOLVER</text>
+  <text x="44" y="58" fill="#a0aec0" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 2px;">AI RESEARCHER | DEVELOPER | PROBLEM SOLVER</text>
 
   <!-- Name -->
-  <text x="44" y="132" fill="#ffffff" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="52" font-weight="800">Subinoy Nath</text>
+  <text x="44" y="132" fill="#ffffff" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 52px; font-weight: 800;">Subinoy Nath</text>
 
   <!-- Subtitles -->
-  <text x="44" y="210" fill="#ff8f5e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="600" letter-spacing="0.2">B.Tech Computer Science & Engineering</text>
-  <text x="44" y="242" fill="#ff8f5e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="600" letter-spacing="0.2">Barak Valley Engineering College (ASTU) · Sribhumi, Assam, India</text>
+  <text x="44" y="210" fill="#ff8f5e" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 20px; font-weight: 600; letter-spacing: 0.2px;">B.Tech Computer Science &amp; Engineering</text>
+  <text x="44" y="242" fill="#ff8f5e" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 20px; font-weight: 600; letter-spacing: 0.2px;">Barak Valley Engineering College (ASTU) | Sribhumi, Assam, India</text>
 </svg>
