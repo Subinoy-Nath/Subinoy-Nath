@@ -132,32 +132,55 @@
 
 <img src="./icons/header_lets_connect.svg" width="100%" alt="Let's Connect" />
 
-<div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; background-color: #0d0f14; margin-bottom: 12px; min-height: 48px; display: block; clear: both; overflow: hidden;">
-  <a href="mailto:subinoy5555@gmail.com" style="text-decoration: none;">
-    <img src="./icons/icon_email.svg" width="48" height="48" alt="Email" style="float: left; margin-right: 16px; border: none;" />
-    <div style="padding-top: 2px;">
-      <div style="font-weight: bold; color: #ffffff; font-size: 16px; line-height: 1.2;">Email</div>
-      <div style="color: #ff7a45; font-size: 14px; margin-top: 4px; line-height: 1.2;">subinoy5555@gmail.com</div>
-    </div>
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="64" align="center" valign="middle">
+      <a href="mailto:subinoy5555@gmail.com">
+        <img src="./icons/icon_email.svg" width="48" height="48" alt="Email" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="mailto:subinoy5555@gmail.com">
+        <b>Email</b><br/>
+        subinoy5555@gmail.com
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; background-color: #0d0f14; margin-bottom: 12px; min-height: 48px; display: block; clear: both; overflow: hidden;">
-  <a href="https://linkedin.com/in/subinoy-nath" target="_blank" style="text-decoration: none;">
-    <img src="./icons/icon_linkedin.svg" width="48" height="48" alt="LinkedIn" style="float: left; margin-right: 16px; border: none;" />
-    <div style="padding-top: 2px;">
-      <div style="font-weight: bold; color: #ffffff; font-size: 16px; line-height: 1.2;">LinkedIn</div>
-      <div style="color: #ff7a45; font-size: 14px; margin-top: 4px; line-height: 1.2;">linkedin.com/in/subinoy-nath</div>
-    </div>
-  </a>
-</div>
+<br/>
 
-<div style="border: 1px solid #334155; border-radius: 8px; padding: 16px; background-color: #0d0f14; min-height: 48px; display: block; clear: both; overflow: hidden;">
-  <a href="https://subinoy-nath.vercel.app" target="_blank" style="text-decoration: none;">
-    <img src="./icons/icon_portfolio.svg" width="48" height="48" alt="Portfolio" style="float: left; margin-right: 16px; border: none;" />
-    <div style="padding-top: 2px;">
-      <div style="font-weight: bold; color: #ffffff; font-size: 16px; line-height: 1.2;">Portfolio</div>
-      <div style="color: #ff7a45; font-size: 14px; margin-top: 4px; line-height: 1.2;">subinoy-nath.vercel.app</div>
-    </div>
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="64" align="center" valign="middle">
+      <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
+        <img src="./icons/icon_linkedin.svg" width="48" height="48" alt="LinkedIn" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
+        <b>LinkedIn</b><br/>
+        linkedin.com/in/subinoy-nath
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="64" align="center" valign="middle">
+      <a href="https://subinoy-nath.vercel.app" target="_blank">
+        <img src="./icons/icon_portfolio.svg" width="48" height="48" alt="Portfolio" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://subinoy-nath.vercel.app" target="_blank">
+        <b>Portfolio</b><br/>
+        subinoy-nath.vercel.app
+      </a>
+    </td>
+  </tr>
+</table>
+
