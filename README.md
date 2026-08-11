@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./profile_banner.svg?v=3" width="100%" alt="Subinoy Nath Banner" />
   
-  <br/>
+  <br/><br/>
   
   <a href="https://subinoy-nath.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff7a45?style=for-the-badge&logo=safari&logoColor=fdfbf7" alt="Portfolio" />
@@ -132,55 +132,71 @@
 
 <img src="./icons/header_lets_connect.svg" width="100%" alt="Let's Connect" />
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="64" align="center" valign="middle">
-      <a href="mailto:subinoy5555@gmail.com">
-        <img src="./icons/icon_email.svg" width="48" height="48" alt="Email" />
-      </a>
+    <td width="33%" style="padding-right: 10px;">
+      <table width="100%" cellpadding="0" cellspacing="0"
+             style="border: 1px solid #888;">
+        <tr>
+          <td width="64" align="center" valign="middle" style="padding: 8px;">
+            <a href="mailto:subinoy5555@gmail.com">
+              <img src="./icons/icon_email.svg"
+                   width="48"
+                   height="48"
+                   alt="Email" />
+            </a>
+          </td>
+          <td valign="middle" style="padding: 8px;">
+            <a href="mailto:subinoy5555@gmail.com">
+              <b>Email</b><br />
+              subinoy5555@gmail.com
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td valign="middle">
-      <a href="mailto:subinoy5555@gmail.com">
-        <b>Email</b><br/>
-        subinoy5555@gmail.com
-      </a>
+    <td width="33%" style="padding: 0 5px;">
+      <table width="100%" cellpadding="0" cellspacing="0"
+             style="border: 1px solid #888;">
+        <tr>
+          <td width="64" align="center" valign="middle" style="padding: 8px;">
+            <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
+              <img src="./icons/icon_linkedin.svg"
+                   width="48"
+                   height="48"
+                   alt="LinkedIn" />
+            </a>
+          </td>
+          <td valign="middle" style="padding: 8px;">
+            <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
+              <b>LinkedIn</b><br />
+              linkedin.com/in/subinoy-nath
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
+    <td width="33%" style="padding-left: 10px;">
+      <table width="100%" cellpadding="0" cellspacing="0"
+             style="border: 1px solid #888;">
+        <tr>
+          <td width="64" align="center" valign="middle" style="padding: 8px;">
+            <a href="https://subinoy-nath.vercel.app" target="_blank">
+              <img src="./icons/icon_portfolio.svg"
+                   width="48"
+                   height="48"
+                   alt="Portfolio" />
+            </a>
+          </td>
+          <td valign="middle" style="padding: 8px;">
+            <a href="https://subinoy-nath.vercel.app" target="_blank">
+              <b>Portfolio</b><br />
+              subinoy-nath.vercel.app
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+
   </tr>
 </table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="64" align="center" valign="middle">
-      <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
-        <img src="./icons/icon_linkedin.svg" width="48" height="48" alt="LinkedIn" />
-      </a>
-    </td>
-    <td valign="middle">
-      <a href="https://linkedin.com/in/subinoy-nath" target="_blank">
-        <b>LinkedIn</b><br/>
-        linkedin.com/in/subinoy-nath
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="64" align="center" valign="middle">
-      <a href="https://subinoy-nath.vercel.app" target="_blank">
-        <img src="./icons/icon_portfolio.svg" width="48" height="48" alt="Portfolio" />
-      </a>
-    </td>
-    <td valign="middle">
-      <a href="https://subinoy-nath.vercel.app" target="_blank">
-        <b>Portfolio</b><br/>
-        subinoy-nath.vercel.app
-      </a>
-    </td>
-  </tr>
-</table>
-
