@@ -124,7 +124,7 @@
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Subinoy-Nath&background=0d0f14&ring=ff7a45&fire=ff7a45&currStreakLabel=ff7a45&currStreakNum=ff7a45&sideNums=ff7a45&sideLabels=ff7a45&dates=ff7a45&border=1e293b&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Subinoy-Nath&background=0d0f14&ring=ff7a45&fire=ff7a45&currStreakLabel=ff7a45&currStreakNum=ff7a45&sideNums=ff7a45&sideLabels=ff7a45&dates=ff7a45&border=1e293b&hide_border=false)
 
 </div>
 
